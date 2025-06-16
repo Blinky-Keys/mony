@@ -21,6 +21,8 @@ git clone https://github.com/alexsurelee/mony.git
 
 2. Install dependencies
 
+If you're performing the installation on a Linux machine, ensure that you have `node` (version >= 20) and `make` installed before installing the dependencies. 
+
 ```
 cd mony
 yarn
